@@ -1,0 +1,28 @@
+name: SU+ED
+favicon: null
+layout_spectrum: 0.800894525134936
+typography_spectrum: 0.05419294093735516
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.15714038186706603
+  lightness: 0.15914705581963062
+  saturation: 0.2276481760200113
+  rhythmicContrast: 0.4988977680914104
+purpose: []
